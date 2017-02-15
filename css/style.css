@@ -1,0 +1,46 @@
+body{
+
+}
+#container1{
+	padding: 10px;
+	width: 800px;
+	margin:auto;
+	background: white;
+}
+#menu{
+	height: 40px;
+	line-height: 40px;
+}
+#menu ul{
+	margin:0;
+	padding:0;
+}
+#menu ul li{
+	display: inline;
+	list-style: none;
+	margin-right: 10px;
+	font-size: 18px;
+}
+#maincontent{
+	clear:both;
+	margin-top: 5px;
+	font-size: 25px;
+}
+#header{
+	height: 80px;
+	line-height: 80px;
+}
+#container #header h1{
+	
+}
+
+p#body{
+	line-height: 23px;
+	font-family: roboto-slab;
+}
+
+h2.blog-title{
+	margin-top:40px;
+	font-family: roboto-slab;
+
+}
